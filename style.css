@@ -16,7 +16,7 @@ h2{
     text-align: center;
     letter-spacing: 3px;
     text-transform: uppercase;
-    text-shadow: 1px;
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
     font-family: 'Roboto Mono', monospace;
 }
 p{
